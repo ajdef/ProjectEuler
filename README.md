@@ -5,3 +5,5 @@ The first 100 problems are of a simpler difficulty, and are permitted to be shar
 
 ## What's the purpose?
 I decided to work through Project Euler such that I can keep my problem solving skills refined in a broad manner whislt also ensuring that my scripting skills stay relevant as well. My current coursework has me working with lower level languages and theoretical concepts that I don't often find myself working with Python, MATLAB, or similar tools.
+
+I am making it a goal to solve 2 problems a week, up until I complete the first 100.
